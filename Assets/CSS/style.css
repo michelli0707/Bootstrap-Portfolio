@@ -90,7 +90,8 @@ h1 {
 }
 
 .profile {
-    width: 25%;
+    width: 150px;
+    height: 150px;
     float: left;
     PADDING-RIGHT: 15px;
 }
@@ -172,10 +173,10 @@ span {
 
 footer {
     width: 960px;
+    position: relative;
     margin: 0 auto;
-	position: relative;
-	bottom: 0;
-	padding: 3em;
+    bottom: 0;
+    padding: 3em;
     text-align: center;
 	font-size: 0.8em;
 	color: #cccccc;
